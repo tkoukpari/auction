@@ -5,7 +5,7 @@ here are some tenets of an actually[^1] successful product/business:
 1. the product serves the client (not vice-versa)
 2. it's transparent (open source? @markzuckerberg)
 
-dating apps are neither so should be replaced by a tech company that has cooler tech and does these things
+dating apps do neither so should be replaced by a tech company that has cooler tech and does these things
 
 why is the model of a dating app that you pay for the right to like people, and to see who likes you? I'm too awkward to do that in real life that's why I signed up for this in the first place. that's morally equivalent to VSCode charging you to write code after you download it for free[^2]
 
