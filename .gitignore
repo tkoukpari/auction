@@ -1,0 +1,25 @@
+# Dune build directory
+_build/
+
+# OCaml artifacts
+*.annot
+*.cmo
+*.cma
+*.cmi
+*.a
+*.o
+*.cmx
+*.cmxs
+*.cmxa
+
+# Merlin configuration files
+.merlin
+
+# Local opam switch
+_opam/
+
+# Editor specific files
+.vscode/
+.idea/
+*.swp
+*~ 
