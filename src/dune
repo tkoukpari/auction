@@ -1,5 +1,3 @@
 (library
  (name auction)
- (libraries core async)
- (preprocess (pps ppx_deriving.show))
- (workspace))
+ (libraries core async))
