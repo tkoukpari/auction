@@ -1,0 +1,12 @@
+profile = default
+version = 0.23.0
+margin = 100
+break-separators = before
+dock-collection-brackets = false
+break-sequences = true
+doc-comments = before
+field-space = loose
+let-binding-spacing = compact
+sequence-style = terminator
+type-decl = sparse
+wrap-comments = true 
