@@ -19,7 +19,6 @@ _build/
 _opam/
 
 # Editor specific files
-.vscode/
 .idea/
 *.swp
 *~ 
