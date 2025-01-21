@@ -10,8 +10,8 @@
                 "isDefault": true
             },
             "problemMatcher": [],
-            "runOptions": {
-                "runOn": "saveFiles"
+            "presentation": {
+                "reveal": "silent"
             }
         }
     ]
